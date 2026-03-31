@@ -481,7 +481,7 @@ python evaluate.py
 ### 步驟一：Clone 專案
 ```bash
 git clone https://github.com/mkz0128/animal-eye-metrology.git
-cd your-repo/animal-metrology
+cd mkz0128/animal-metrology
 ```
 
 ### 步驟二：設定環境變數
