@@ -1,0 +1,26 @@
+# 虛擬環境
+ww_venv/
+
+# Python 快取
+__pycache__/
+*.pyc
+
+# 模型權重
+*.pt
+*.pth
+
+# 測試圖片（不上傳，太大）
+test_data/*.jpg
+
+# 評估結果（本地產生）
+evaluation_results.json
+
+# Docker 輸出
+animal-metrology/outputs/
+
+# 環境變數（含機密）
+animal-metrology/.env
+
+# 暫存/雜項
+instances_default.json
+.vscode/

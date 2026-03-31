@@ -1,0 +1,25 @@
+# 核心深度學習
+torch>=2.1.0
+torchvision>=0.16.0
+
+# Grounding DINO (HuggingFace 版，免編譯)
+transformers>=4.40.0
+
+# SAM 2 (從 GitHub 安裝)
+SAM-2 @ git+https://github.com/facebookresearch/sam2.git
+
+# 影像處理
+opencv-python-headless
+numpy
+Pillow
+
+# COCO 資料集工具
+pycocotools
+
+# API 伺服器
+fastapi
+uvicorn
+python-multipart
+
+# 環境變數
+python-dotenv
