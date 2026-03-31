@@ -397,7 +397,7 @@ Wiwynn_project/
 ### 步驟一：Clone 專案
 ```bash
 git clone https://github.com/mkz0128/animal-eye-metrology.git
-cd your-repo
+cd animal-eye-metrology
 ```
 
 ### 步驟二：建立虛擬環境
