@@ -396,7 +396,7 @@ Wiwynn_project/
 
 ### 步驟一：Clone 專案
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/mkz0128/animal-eye-metrology.git
 cd your-repo
 ```
 
@@ -480,7 +480,7 @@ python evaluate.py
 
 ### 步驟一：Clone 專案
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/mkz0128/animal-eye-metrology.git
 cd your-repo/animal-metrology
 ```
 
